@@ -1,0 +1,49 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+   
+}
+
+.person-content {
+    .person-main{
+        .person-header{
+            height: 3.125rem;
+            margin-bottom: 1.875rem;
+            .bottom{float: right;
+            a{
+                color: #666;
+                padding: 0 .625rem;
+                font-size: 2.125rem;
+            }
+            }
+        }
+    margin: 2.875rem 1.875rem;
+   
+    .form-grounp{
+        margin-bottom: 1.875rem;
+    }
+    .form-left {
+        display: inline-block;
+        width: 50%;
+
+        .ant-input {
+            width: 50%;
+            height:2.8125rem;
+        }
+    }
+
+    .form-right {
+        width: 50%;
+        display: inline-block;
+
+        .ant-input {
+            width: 50%;
+            height:2.8125rem;
+        }
+    }
+}
+   
+}
